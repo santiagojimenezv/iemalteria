@@ -38,12 +38,12 @@ export default function IndexPage() {
                     </div>
                     {/* Card 3 */}
                     <div className="card">
-                        <img src="http://localhost:4000/uploads/boxeo.webp" alt="Semillero 3" />
+                        <img src="http://localhost:4000/uploads/boxeo2.jpeg" alt="Semillero 3" />
                         <h3>Semillero de Boxeo</h3>
                     </div>
                     {/* Card 4 */}
                     <div className="card">
-                        <img src="http://localhost:4000/uploads/futbol.png" alt="Semillero 4" />
+                        <img src="http://localhost:4000/uploads/futbol2.jpeg" alt="Semillero 4" />
                         <h3>Semillero de Fútbol</h3>
                     </div>
                     {/* Card 5 */}
